@@ -1,0 +1,8 @@
+fastapi[standard]
+sqlalchemy
+psycopg2-binary
+pydantic-settings
+passlib[bcrypt]
+python-jose[cryptography]
+autopep8
+isort
