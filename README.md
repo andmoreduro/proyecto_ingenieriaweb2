@@ -5,4 +5,5 @@ Este proyecto consiste en una aplicación de recomendación de recetas usando un
 # Integrantes
 
 Andrés Felipe Moreno Durango
+
 Santiago Olaya Rojas
